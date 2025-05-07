@@ -33,5 +33,5 @@ Bookmark your favs or flex your creations on IG, WhatsApp, or Discord.
 ### ⚙️ Install It
 
 ```bash
-git clone https://github.com/Shubham-Jain98/ai-recipe-gen.git
+git clone https://github.com/Shubham-Jain98/Ai-Recepie-Gen.git
 cd ai-recipe-gen
